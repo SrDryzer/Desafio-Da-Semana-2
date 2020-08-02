@@ -1,0 +1,56 @@
+html, body{
+    margin: 0;
+}
+body{
+    background-color: white;
+}
+#background{
+    background: url("img/background.jpg");
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+#title{
+    color: white;
+    padding-top: 20%;
+    font-size: 70px;
+}
+#subtitle{
+    color: white;
+}
+#button{
+    color: white;
+    border: 1px white solid;
+    padding: 10px 20px 10px 20px;
+}
+#img1{
+    height:35%;
+    width: 20%;
+    
+}
+#section-title{
+    text-align: center;
+}
+#Ods9{
+    text-align: center;
+}
+#target{
+    text-align: center;
+}
+#ODS{
+    background-color: #f7f7f7;
+}
+#aboutme{
+    background-color: #f7f7f7;
+    text-align:right;
+}
+#about{
+    text-align: center;
+    padding-top: 5%;
+    font-size: 35px;
+}
+.me{
+    font-size: medium;
+    text-align: center;
+
+}
